@@ -1,1 +1,45 @@
+# Topics Covered
 
+- Digital Forensics Process
+- Evidence Acquisition
+- Hashing
+- Chain of Custody
+- Memory Forensics
+- Disk Imaging
+- Windows Registry
+- ShellBags
+- Prefetch Files
+- LNK Files
+- ADS
+- Network Forensics
+- PCAP Analysis
+- Wireshark
+- OSI Model
+- TCP/IP
+- ARP
+- IPv4
+- IPv6
+- IDS
+- SOAR
+- SOC
+- SIEM
+- Mobile Forensics
+- SIM
+- GSM
+- Android
+- iOS
+- Metadata
+- EXIF
+- File Headers
+- Magic Numbers
+- Encryption
+- AES
+- RSA
+- ECC
+- Symmetric Encryption
+- Asymmetric Encryption
+- Block Ciphers
+- Hash Functions
+- Nmap
+- FTK Imager
+- Autopsy
